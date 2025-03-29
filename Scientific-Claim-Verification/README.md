@@ -97,7 +97,7 @@ An example is below. This claim was written based on a citation with 3 cited doc
   ]
 }
 ```
-** Note: you will not need the 5-fold cross validation split since we are not doing machine learning, but rather, information retrieval**
+**Note: you will not need the 5-fold cross validation split since we are not doing machine learning, but rather, information retrieval**
 After unzipping the tarball, the data will organized like this:
 ```
 data
