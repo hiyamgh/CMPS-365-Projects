@@ -4,10 +4,10 @@ Retrieval-based Clinical Decision Support (ReCDS) can aid clinical workflow by p
 ## Choice of Task
 For your project, you could choose either the **Patient to Article** or the **Patient-to-Patien** tasks.
 
-## Dataset Link
-You can find the dataset [here on OneDrive](https://mailaub-my.sharepoint.com/:u:/r/personal/hg31_aub_edu_lb/Documents/CMPS-365-Projects/patient2patient_patient2article.zip?csf=1&web=1&e=fsJIVO)
+## Archive Link
+You can find the archive for both tasks [here on OneDrive](https://mailaub-my.sharepoint.com/:u:/r/personal/hg31_aub_edu_lb/Documents/CMPS-365-Projects/patient2patient_patient2article.zip?csf=1&web=1&e=fsJIVO)
 
-## Datasets
+## Archive Datasets
 All files listed below have train, dev, and test splits.
 
 The ``dataset/`` directory contains the following:
@@ -41,7 +41,7 @@ Ground-truth of patient-patient similarity and patient-article relevance of top 
 
 The keys are `human_patient_id` and each entry is a dict with `PMID`s and `patient_uid`s as keys, representing articles and patients, respectively, and numbers as values indicating type of relevance/similarity. For details, see our paper.
 
-## Meta data
+## Archive Meta-data
 The ``meta_data/`` directory consists of the following files.
 
 ### PMIDs.json
