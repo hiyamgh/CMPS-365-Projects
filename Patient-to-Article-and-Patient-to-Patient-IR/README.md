@@ -2,7 +2,7 @@
 Retrieval-based Clinical Decision Support (ReCDS) can aid clinical workflow by providing relevant literature and similar patients for a given patient. However, the development of ReCDS systems has been severely obstructed by the lack of diverse patient collections and publicly available large-scale patient-level annotation datasets. A novel dataset of patient summaries and relations is created to benchmark two ReCDS tasks: **Patient-to-Article Retrieval (ReCDS-PAR)** and **Patient-to-Patient Retrieval (ReCDS-PPR)**. Specifically, patient summaries from medical articles using simple heuristics, utilizing citations graph to define patient-article relevance and patient-patient similarity. The archive contains 167k patient summaries with 3.1M patient-article relevance annotations and 293k patient-patient similarity annotations, serving as one of the largest-scale resources for ReCDS and also one of the largest patient collections.
 
 ## Choice of Task
-For your project, you could choose either the **Patient to Article** or the **Patient-to-Patien** tasks.
+For your project, you could choose either the **Patient to Article** or the **Patient-to-Patient** tasks.
 
 ## Download the Archive
 You can find the archive for both tasks [here on OneDrive](https://mailaub-my.sharepoint.com/:u:/r/personal/hg31_aub_edu_lb/Documents/CMPS-365-Projects/patient2patient_patient2article.zip?csf=1&web=1&e=fsJIVO)
