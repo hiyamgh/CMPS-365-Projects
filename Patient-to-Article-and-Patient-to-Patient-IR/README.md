@@ -4,7 +4,7 @@ Retrieval-based Clinical Decision Support (ReCDS) can aid clinical workflow by p
 ## Choice of Task
 For your project, you could choose either the **Patient to Article** or the **Patient-to-Patien** tasks.
 
-## Archive Link
+## Download the Archive
 You can find the archive for both tasks [here on OneDrive](https://mailaub-my.sharepoint.com/:u:/r/personal/hg31_aub_edu_lb/Documents/CMPS-365-Projects/patient2patient_patient2article.zip?csf=1&web=1&e=fsJIVO)
 
 ## Archive Datasets

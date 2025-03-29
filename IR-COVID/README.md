@@ -1,8 +1,8 @@
 # IR-COVID
 The **IR-COVID** dataset is an **information retrieval benchmark** developed to evaluate search systems on **COVID-19-related scientific literature**. Based on a collection of research papers on **COVID-19, SARS-CoV-2, and related coronaviruses**, sourced from repositories like **PubMed, bioRxiv, and medRxiv**. The dataset consists of multiple **query topics**, such as *"What are the long-term effects of COVID-19?"*, along with **relevance judgments** manually assigned by experts. These judgments help determine whether a document is **relevant or not** to a given query. The dataset was released in **five rounds**, with each round introducing new queries and refined relevance assessments. 
 
-## Download Archive
-You can find the dataset [here on OneDrive](https://mailaub-my.sharepoint.com/:u:/r/personal/hg31_aub_edu_lb/Documents/CMPS-365-Projects/IR-Covid-archive.zip?csf=1&web=1&e=wSShn2)
+## Download the Archive
+You can find the archive [here on OneDrive](https://mailaub-my.sharepoint.com/:u:/r/personal/hg31_aub_edu_lb/Documents/CMPS-365-Projects/IR-Covid-archive.zip?csf=1&web=1&e=wSShn2)
 
 ## Archive Description
 
