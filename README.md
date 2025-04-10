@@ -54,3 +54,13 @@ misinformation in political news, social media, and on the web.
 We are interested in the task of scientific claim verification to evaluate the veracity of  scientific claims against a scientific corpus.
 
 Read more [here](./Scientific-Claim-Verification/).  
+
+## DBpedia-Entity
+
+DBpedia-Entity is a widely used test collection for evaluating entity search over the DBpedia knowledge base. It is designed to assess retrieval systems that return a ranked list of entities (DBpedia URIs) in response to free-text user queries.
+
+The first version of the collection, DBpedia-Entity v1, was introduced in 2013 and was based on DBpedia v3.7. It was developed by compiling search queries from various entity-oriented benchmarking initiatives and linking relevant results to DBpedia entities.
+
+A second version, DBpedia-Entity v2, was released in 2017 as part of a collaborative effort involving the IAI group at the University of Stavanger, the Norwegian University of Science and Technology, Wayne State University, and Carnegie Mellon University.
+
+Read more [here](./DBpedia-Entity/).  
